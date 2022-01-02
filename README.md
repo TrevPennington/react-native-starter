@@ -1,6 +1,6 @@
 # react-native-starter
 
-- expo bare
+- expo managed
 - TS
 - react-navigation
 - react-native-svg + transformer
